@@ -1,5 +1,5 @@
 # Nier_Automata
- Nier Automata 3D Art
+ Nier Automata 3D Fan Art
  
 ![gif-nier](https://user-images.githubusercontent.com/26629624/192145777-a1880991-ff54-47bd-86be-a44d3990038a.gif)
 
